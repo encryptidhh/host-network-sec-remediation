@@ -1,2 +1,2 @@
-# host-network-sec-remediation
-Identified and remediated host and network vulnerabilities on a Windows 10 Enterprise VM using Kali Linux, OpenVAS, and Nmap. Closed high-risk ports (including TCP/139 linked to EternalBlue/WannaCry) and enforced secure baselines by patching 10+ non-compliant Group Policies with LGPO and Policy Analyzer.
+# Host & Network Security Remediation
+One of my favorite projects from my Security+ studies was the Gap Analysis Lab. If you've used CertMaster labs, you're already familiar with it: using PolicyAnalyzer to assess how a Windows Enterprise machine complies with secure baselines and identify areas where its configurations can be improved. This project builds upon that work by incorporating OpenVAS and Nmap for a well-rounded vulnerability assessment, and LGPO.exe to enforce secure Group Policy on a vulnerable virtual machine.
