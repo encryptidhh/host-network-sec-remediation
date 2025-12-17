@@ -3,14 +3,20 @@ One of my favorite projects from my Security+ studies was the Gap Analysis Lab. 
 
 ## How to Use this Repo
 
-As a guide! I used VMware to host my virtual machines, but the tutorial is otherwise vendor-neutral. Here are the virtual machines/materials you will need:
+As a guide! I used VMware to host my virtual machines, but the tutorial is otherwise vendor-neutral. Here's the virtual machines/materials needed.
+
+Machines: 
 * A Windows 10 Enterprise VM
 * A Windows Server 2019 VM
-* A Kali Linux VM that can run:
-  * OpenVAS
-  * Nmap
+* A Kali Linux VM
+
+Software:
+* OpenVAS (Kali Linux)
+* Nmap (Kali Linux)
+* LGPO.exe (Windows 10 Enterprise)
+* Security Baselines for the Windows 10 machine version
+* PolicyAnalyzer.exe (Windows 10 Enterprise)
  
 ## 🔗 Quick Links
-
 * Tutorial:
 * Issues Doc:
