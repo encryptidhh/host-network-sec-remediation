@@ -18,5 +18,4 @@ Software:
 * PolicyAnalyzer.exe (Windows 10 Enterprise)
  
 ## 🔗 Quick Links
-* Tutorial:
-* Issues Doc:
+* Tutorial: https://github.com/encryptidhh/host-network-sec-remediation/blob/main/Project-Tutorial.md
